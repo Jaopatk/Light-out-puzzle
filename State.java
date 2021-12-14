@@ -1,8 +1,3 @@
-//Nasreeya 6213128
-//Pojanut 6213205
-//Palakorn 6213206
-//Pakkapond 6213207
-
 import static java.lang.Math.sqrt;
 import java.util.Arrays;
 import java.util.Objects;
