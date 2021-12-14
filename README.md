@@ -5,4 +5,6 @@ Lights are placed in N x N grid. Each of them can be ON (1) or OFF (0). When a l
 OFF or OFF to ON, so are its horizontal and vertical neighbors – if any of them exists. Find a way to switch off
 all lights and print one possible sequence.
 
-![image](https://user-images.githubusercontent.com/95932835/145946218-5886aca7-3031-42cd-bde2-acf80825aeb4.png)
+<img src="https://user-images.githubusercontent.com/95932835/145947302-c92ddfd2-a4fc-428e-aa28-3063095837f0.png" width="400"> 
+<img src="https://user-images.githubusercontent.com/95932835/145947983-5de44d02-6522-4cf5-8064-4de5d7a1f96c.png"
+width="400"> 
