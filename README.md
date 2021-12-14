@@ -8,3 +8,4 @@ all lights and print one possible sequence.
 <img src="https://user-images.githubusercontent.com/95932835/145947302-c92ddfd2-a4fc-428e-aa28-3063095837f0.png" width="400"> 
 <img src="https://user-images.githubusercontent.com/95932835/145948099-fc738506-8a6d-4306-9399-587deba389e9.png"
 width="400"> 
+
